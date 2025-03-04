@@ -1,0 +1,16 @@
+[
+  {
+    "Id": "d5977993-7032-49db-bc09-f1a7a2e996c5",
+    "Name": "stringUpdated",
+    "Email": "userUpdated@example.com",
+    "CreatedAt": "2025-03-04T08:12:43.4955223Z",
+    "UpdatedAt": "2025-03-04T09:01:05.7144982Z"
+  },
+  {
+    "Id": "a7f5e846-59c1-4cf4-9d7b-a59ea53c9e10",
+    "Name": "string2",
+    "Email": "user2@example.com",
+    "CreatedAt": "2025-03-04T08:13:37.6749087Z",
+    "UpdatedAt": null
+  }
+]
